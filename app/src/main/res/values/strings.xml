@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageUrlToBitmapWithAsyncTask</string>
+    <string name="convert_image_url_to_bitmap_text">Convert Image Url to Bitmap</string>
+</resources>
